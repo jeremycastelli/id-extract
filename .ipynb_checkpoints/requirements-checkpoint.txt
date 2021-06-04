@@ -1,0 +1,10 @@
+filetype
+imutils
+matplotlib
+numpy
+opencv-python
+pandas
+pdf2image
+pigeonXT
+pytesseract
+
